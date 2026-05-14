@@ -2,7 +2,7 @@
 
 > A modern, responsive gaming platform for downloading Android, PPSSPP, PS2, and GTA games with a sleek dark UI and intuitive navigation.
 
-🌐 **[Visit Nimo's Gaming](https://nimogaminghub-wq.github.io/)** - Live Site
+🌐 **[Visit Nimo's Gaming](https://nimoemmanuel2007.github.io/Nimos-Gaming/)** - Live Site
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Platform Support](https://img.shields.io/badge/platforms-Android%20%7C%20PPSSPP%20%7C%20PS2%20%7C%20GTA-brightgreen)](README.md)
@@ -96,7 +96,6 @@ Nimo's Gaming/
 │   ├── Android.css           # Android page styles
 │   ├── PPSSPP.css            # PPSSPP page styles
 │   ├── Ps2.css               # PS2 page styles
-│   ├── ads.css               # Advertisement styles
 │   ├── Support.css           # Support/Help styles
 │   ├── Legal.css             # Legal pages styles
 │   └── 404.css               # Error page styles
@@ -110,15 +109,10 @@ Nimo's Gaming/
 │   ├── Platform.js           # Platform handling
 │   ├── Gta.js                # GTA-specific logic
 │   ├── Slider.js             # Image/content slider
-│   └── ads.js                # Advertisement handling
 ├── games/
 │   └── game-data.json        # Complete game database
 ├── icon/
 │   └── [game-icons]/         # Game cover images
-├── ads/
-│   ├── leaderboard.html      # Leaderboard ad
-│   ├── rectangle.html        # Rectangle ad
-│   └── sidebar.html          # Sidebar ad
 ├── .gitignore                # Git ignore rules
 ├── README.md                 # This file
 └── [Python scripts]/         # Data management scripts
@@ -139,7 +133,7 @@ Nimo's Gaming/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/Nimos-Gaming.git
+   git clone https://github.com/nimoemmanuel2007/Nimos-Gaming.git
    cd Nimos-Gaming
    ```
 
@@ -149,7 +143,7 @@ Nimo's Gaming/
    ```bash
    # Using Python
    python -m http.server 8000
-   
+
    # Using Node.js http-server
    npx http-server
    ```
@@ -169,7 +163,7 @@ Nimo's Gaming/
    git add .
    git commit -m "Initial commit: Nimo's Gaming v1.0"
    git branch -M main
-   git remote add origin https://github.com/yourusername/Nimos-Gaming.git
+   git remote add origin https://github.com/nimoemmanuel2007/Nimos-Gaming.git
    git push -u origin main
    ```
 
@@ -181,13 +175,13 @@ Nimo's Gaming/
 
 3. **Configure Auto-Deployment**
    - GitHub Pages automatically deploys on push
-   - Your site will be live at: `https://yourusername.github.io/Nimos-Gaming`
+   - Your site will be live at: `https://nimoemmanuel2007.github.io/Nimos-Gaming`
 
 ### Local Installation
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/yourusername/Nimos-Gaming.git
+   git clone https://github.com/nimoemmanuel2007/Nimos-Gaming.git
    ```
 
 2. **Navigate to Project**
@@ -199,10 +193,10 @@ Nimo's Gaming/
    ```bash
    # Option 1: Python 3
    python -m http.server 8000
-   
+
    # Option 2: Python 2
    python -m SimpleHTTPServer 8000
-   
+
    # Option 3: Node.js
    npx http-server -p 8000
    ```
@@ -352,7 +346,6 @@ CSS/
 ├── Platform.css       # Platform page styles
 ├── Search.css         # Search functionality
 ├── Categories.css     # Category filtering
-├── ads.css            # Advertisement styling
 └── [page-specific].css
 ```
 
@@ -370,7 +363,6 @@ JS/
 ### Assets
 ```
 icon/                  # Game cover images
-ads/                   # Advertisement templates
 games/                 # Game data (JSON)
 ```
 
@@ -471,7 +463,7 @@ We welcome contributions! Here's how:
 
 1. **Fork the Repository**
    ```bash
-   git clone https://github.com/yourusername/Nimos-Gaming.git
+   git clone https://github.com/nimoemmanuel2007/Nimos-Gaming.git
    ```
 
 2. **Create Feature Branch**
@@ -511,7 +503,7 @@ We welcome contributions! Here's how:
 
 - **Documentation**: Check [README.md](README.md)
 - **FAQ**: Visit [Help Page](Pages/help.html)
-- **Issues**: Report bugs on [GitHub Issues](https://github.com/yourusername/Nimos-Gaming/issues)
+- **Issues**: Report bugs on [GitHub Issues](https://github.com/nimoemmanuel2007/Nimos-Gaming/issues)
 - **Email**: Contact via [Contact Form](Pages/contact.html)
 
 ### Reporting Bugs

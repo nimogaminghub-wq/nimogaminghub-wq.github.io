@@ -1,0 +1,26 @@
+# Nimo's Gaming robots.txt
+# Allow search engines to crawl and index all pages
+
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /Pages/
+Allow: /CSS/
+Allow: /JS/
+Allow: /icon/
+Allow: /games/
+
+# Block crawling of specific files
+Disallow: /node_modules/
+Disallow: /*.json
+Disallow: /.git/
+Disallow: /README.md
+
+# Sitemap location
+Sitemap: https://nimoemmanuel2007.github.io/Nimos-Gaming/sitemap.xml
+
+# Crawl delay (optional - in seconds)
+Crawl-delay: 0
+
+# Request rate (pages per 10 seconds)
+Request-rate: 30/10

@@ -1,0 +1,66 @@
+{
+  "name": "Nimo's Gaming - Free Game Downloads",
+  "short_name": "Nimo Gaming",
+  "description": "Download free Android, PPSSPP, and PS2 games. 100+ games with fast, safe downloads.",
+  "start_url": "/Nimos-Gaming/",
+  "scope": "/Nimos-Gaming/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b1220",
+  "theme_color": "#00ffcc",
+  "categories": ["games", "entertainment"],
+  "screenshots": [
+    {
+      "src": "/Nimos-Gaming/icon/canva-dark-abstract-black-panther.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/Nimos-Gaming/icon/canva-dark-abstract-black-panther.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/Nimos-Gaming/icon/canva-dark-abstract-black-panther.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/Nimos-Gaming/icon/canva-dark-abstract-black-panther.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Android Games",
+      "short_name": "Android",
+      "description": "Download Android APK games",
+      "url": "/Nimos-Gaming/Pages/android.html",
+      "icons": [
+        {
+          "src": "/Nimos-Gaming/icon/android-games.jpg",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Search Games",
+      "short_name": "Search",
+      "description": "Search for your favorite games",
+      "url": "/Nimos-Gaming/Pages/search.html",
+      "icons": [
+        {
+          "src": "/Nimos-Gaming/icon/canva-dark-abstract-black-panther.jpg",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

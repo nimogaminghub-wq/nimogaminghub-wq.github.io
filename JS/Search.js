@@ -20,6 +20,14 @@ function initSearch() {
             performSearch();
         }
     });
+
+    // Load any search query from URL parameters
+    const urlParams = new URLSearchParams(window.location.search);
+    const query = urlParams.get('q');
+    if (query) {
+        searchInput.value = query;
+        setTimeout(() => performSearch(), 100);
+    }
 }
 
 function performSearch() {
@@ -86,4 +94,12 @@ function performSearch() {
 
         container.appendChild(card);
     });
+}
+
+/* Quick search helper - used for quick filter buttons */
+function quickSearch(query) {
+    const searchInput = document.getElementById("search-input");
+    if (!searchInput) return;
+    searchInput.value = query;
+    performSearch();
 }

@@ -827,6 +827,24 @@
           "url": "https://apkpure.com/fractal-combat-x/com.mangopub.fractalcombatx/download"
         }
       ]
+    },
+    {
+      "id": "android-47",
+      "title": "TheoTown",
+      "platform": "android",
+      "genre": "game",
+      "size": "98MB",
+      "rating": 4.5,
+      "image": "../icon/TheoTown.jpeg",
+      "description": "TheoTown mobile game.",
+      "trendingScore": 85,
+      "featured": false,
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://mega.nz/file/cnMURDJD#V0YC6YK26fVxntzH4dfzQDzGwr9GeGwmM9VrAjKWlDA"
+        }
+      ]
     }
   ],
   "ppsspp": [
@@ -843,12 +861,8 @@
       "rating": "4.7",
       "downloadLinks": [
         {
-          "name": "Drive",
-          "url": "https://drive.google.com/uc?export=download&id=1HJ5rC_eYW7HX55c9ggBWJSNwBtQxhum2"
-        },
-        {
-          "name": "Romsfun",
-          "url": "https://romsfun.com/download/assassins-creed-bloodlines-11131/1"
+          "name": "Download",
+          "url": "https://mega.nz/file/lyEyEKSS#8DxhMSRvTCO5xijubRUgTCywGO-iB4GIa-YmguH-tI0"
         }
       ]
     },
@@ -866,7 +880,25 @@
       "downloadLinks": [
         {
           "name": "Download",
-          "url": "https://drive.google.com/uc?export=download&id=1f0Vdp2JznTWnfXA5zPbwbL8icWSXtkey"
+          "url": "https://mega.nz/file/56s0kJzT#BPxhrlmhhaFBDSy8Y74U2hEDt0b6OYYkuv9j9kjEc6U"
+        }
+      ]
+    },
+     {
+      "id": "ppsspp-3",
+      "title": "God of War Chains Of Olympus",
+      "platform": "ppsspp",
+      "genre": "action",
+      "size": "1.09GB",
+      "rating": "4.9",
+      "description": "Epic action-adventure game.",
+      "trendingScore": 100,
+      "featured": true,
+      "image": "../icon/images.jpeg",
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://mega.nz/file/0z1ykKCT#Mgh5g2h1XlP_PHTRH_MrINY42ZB02OhUUDMtq7ZWHa0"
         }
       ]
     },
@@ -875,7 +907,7 @@
       "title": "Dante's Inferno",
       "platform": "ppsspp",
       "genre": "action",
-      "size": "1.4GB",
+      "size": "1.69GB",
       "image": "../icon/Dante’s Inferno.jpeg",
       "description": "Dark action adventure through hell.",
       "trendingScore": 97,
@@ -883,8 +915,8 @@
       "rating": "4.8",
       "downloadLinks": [
         {
-          "name": "Drive",
-          "url": "https://drive.google.com/uc?export=download&id=1u-ZvKsqlwTTs1FHAuXWMEyQ4ldPjhBQC"
+          "name": "Download",
+          "url": "https://mega.nz/file/I2kRHYLJ#XGoLvpXlAsbPDtAV97mvAU07zGiT52pUNLhdZkPGZMw"
         }
       ]
     },
@@ -901,7 +933,7 @@
       "rating": "4.2",
       "downloadLinks": [
         {
-          "name": "Romsfun",
+          "name": "Download",
           "url": "https://romsfun.com/download/ghost-rider-11416/2"
         }
       ]
@@ -919,7 +951,7 @@
       "rating": "4.3",
       "downloadLinks": [
         {
-          "name": "Romsfun",
+          "name": "Download",
           "url": "https://romsfun.com/download/manhunt-2-11651/1"
         }
       ]
@@ -937,8 +969,8 @@
       "rating": "4.7",
       "downloadLinks": [
         {
-          "name": "Drive",
-          "url": "https://drive.google.com/uc?export=download&id=1jkmS7cXZZ-zCdXdGBFqCefZW2eZ111qk"
+          "name": "Download",
+          "url": "https://mega.nz/file/Q6tgiaBR#x9ClE02npT3i4bIZA5tOGYJP-9II7PltVRGSfIDDJGE"
         }
       ]
     },
@@ -955,7 +987,7 @@
       "rating": "4.7",
       "downloadLinks": [
         {
-          "name": "Romsfun",
+          "name": "Download",
           "url": "https://romsfun.com/download/mortal-kombat-unchained-id2-11201/2"
         }
       ]
@@ -965,7 +997,7 @@
       "title": "Crisis Core: Final Fantasy VII",
       "platform": "ppsspp",
       "genre": "adventure",
-      "size": "1.6GB",
+      "size": "1.62GB",
       "image": "../icon/Final_Fantasy X-2.jpeg",
       "description": "Story-driven RPG prequel.",
       "trendingScore": 98,
@@ -973,8 +1005,8 @@
       "rating": "4.8",
       "downloadLinks": [
         {
-          "name": "Drive",
-          "url": "https://drive.google.com/uc?export=download&id=1NyIw8iZtcjX1ybRh-Tpr3iiUgyCGxvhg"
+          "name": "Download",
+          "url": "https://mega.nz/file/sq8AGYTZ#i8hhHL_DyhYuVZ_NT-MCkCVLQCb-0VmPJADPrzr3Uoo"
         }
       ]
     },
@@ -991,7 +1023,7 @@
       "rating": "4.4",
       "downloadLinks": [
         {
-          "name": "Romsfun",
+          "name": "Download",
           "url": "https://romsfun.com/download/prince-of-persia-the-forgotten-sands-11390/1"
         }
       ]
@@ -1009,7 +1041,7 @@
       "rating": "4.3",
       "downloadLinks": [
         {
-          "name": "Romsfun",
+          "name": "Download",
           "url": "https://romsfun.com/download/tomb-raider-legend-11570/1"
         }
       ]
@@ -1027,7 +1059,7 @@
       "rating": "4.6",
       "downloadLinks": [
         {
-          "name": "Romsfun",
+          "name": "Download",
           "url": "https://romsfun.com/download/midnight-club-3-dub-edition-11347/1"
         }
       ]
@@ -1045,7 +1077,7 @@
       "rating": "4.5",
       "downloadLinks": [
         {
-          "name": "Romsfun",
+          "name": "Download",
           "url": "https://romsfun.com/download/need-for-speed-shift-11454/1"
         }
       ]
@@ -1063,7 +1095,7 @@
       "rating": "4.7",
       "downloadLinks": [
         {
-          "name": "Romsfun",
+          "name":"Download",
           "url": "https://romsfun.com/download/pes-2024-188596/2"
         }
       ]
@@ -1099,7 +1131,7 @@
       "rating": "4.9",
       "downloadLinks": [
         {
-          "name": "Romsfun",
+          "name": "Download",
           "url": "https://romsfun.com/download/ea-sports-fc-25-2-265458/1"
         }
       ]
@@ -1117,7 +1149,7 @@
       "rating": "4.9",
       "downloadLinks": [
         {
-          "name": "Romsfun",
+          "name": "Download",
           "url": "https://romsfun.com/download/grand-theft-auto-vice-city-stories-11125/1"
         }
       ]
@@ -1135,7 +1167,7 @@
       "rating": "4.9",
       "downloadLinks": [
         {
-          "name": "Romsfun",
+          "name": "Download",
           "url": "https://romsfun.com/download/grand-theft-auto-liberty-city-stories-11170/1"
         }
       ]
@@ -1153,7 +1185,7 @@
       "rating": "4.5",
       "downloadLinks": [
         {
-          "name": "Romsfun",
+          "name": "Download",
           "url": "https://romsfun.com/download/grand-theft-auto-chinatown-wars-11344/2"
         }
       ]
@@ -1171,7 +1203,7 @@
       "rating": "4.4",
       "downloadLinks": [
         {
-          "name": "Romsfun",
+          "name":"Download",
           "url": "https://romsfun.com/download/the-3rd-birthday-11158/1"
         }
       ]
@@ -1189,7 +1221,7 @@
       "rating": "4.4",
       "downloadLinks": [
         {
-          "name": "Romsfun",
+          "name": "Download",
           "url": "https://romsfun.com/download/valkyria-chronicles-3-extra-edition-153537/1"
         }
       ]
@@ -1207,7 +1239,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/pirates-of-the-caribbean-at-worlds-end-12364/1"
         }
       ]
@@ -1225,7 +1257,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/transformers-revenge-of-the-fallen-12005/1"
         }
       ]
@@ -1243,7 +1275,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/warriors-orochi-2-2-11243/1"
         }
       ]
@@ -1261,7 +1293,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/300-march-to-glory-11993/1"
         }
       ]
@@ -1279,7 +1311,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/the-fast-and-the-furious-12065/1"
         }
       ]
@@ -1297,7 +1329,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/x-men-legends-ii-rise-of-apocalypse-11693/1"
         }
       ]
@@ -1315,7 +1347,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name":"Download",
           "url": "https://romsfun.com/download/god-eater-2-11234/5"
         }
       ]
@@ -1333,7 +1365,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/wrc-fia-world-rally-championship-12895/1"
         }
       ]
@@ -1351,7 +1383,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/tom-clancys-ghost-recon-predator-11914/1"
         }
       ]
@@ -1369,7 +1401,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/dissidia-final-fantasy-11161/2"
         }
       ]
@@ -1387,7 +1419,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/iron-man-12044/1"
         }
       ]
@@ -1405,7 +1437,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/wall-e-12726/1"
         }
       ]
@@ -1423,7 +1455,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/gangs-of-london-11860/1"
         }
       ]
@@ -1441,7 +1473,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/socom-u-s-navy-seals-fireteam-bravo-2-12346/1"
         }
       ]
@@ -1459,7 +1491,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/fifa-soccer-13-5-167734/1"
         }
       ]
@@ -1477,7 +1509,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/formula-1-06-12791/1"
         }
       ]
@@ -1495,7 +1527,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/star-wars-the-force-unleashed-8-169252/1"
         }
       ]
@@ -1513,7 +1545,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/gun-showdown-12146/1"
         }
       ]
@@ -1531,7 +1563,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name":"Download",
           "url": "https://romsfun.com/download/crazy-taxi-fare-wars-12679/1"
         }
       ]
@@ -1549,7 +1581,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/harry-potter-and-the-order-of-the-phoenix-11990/2"
         }
       ]
@@ -1567,7 +1599,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/medal-of-honor-heroes-2-id2-11657/3"
         }
       ]
@@ -1585,7 +1617,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/silent-hill-origins-11362/2"
         }
       ]
@@ -1603,7 +1635,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/ea-sports-fc-25-2-265458/1"
         }
       ]
@@ -1621,7 +1653,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/metal-gear-solid-peace-walker-1-11147/1"
         }
       ]
@@ -1639,7 +1671,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name":"Download",
           "url": "https://romsfun.com/download/the-warriors-11408/3"
         }
       ]
@@ -1657,7 +1689,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/wwe-smackdown-vs-raw-2011-2-11140/1"
         }
       ]
@@ -1675,7 +1707,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/call-of-duty-roads-to-victory-11210/1"
         }
       ]
@@ -1693,7 +1725,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/fifa-street-2-11297/1"
         }
       ]
@@ -1711,7 +1743,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/efootball-pes-2025-207676/1"
         }
       ]
@@ -1729,7 +1761,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/def-jam-fight-for-ny-the-takeover-11198/1"
         }
       ]
@@ -1747,7 +1779,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/need-for-speed-prostreet-11738/2"
         }
       ]
@@ -1765,7 +1797,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/need-for-speed-most-wanted-5-1-0-11182/2"
         }
       ]
@@ -1783,7 +1815,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/gran-turismo-1-11249/2"
         }
       ]
@@ -1801,7 +1833,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/ben-10-protector-of-earth-11231/1"
         }
       ]
@@ -1819,7 +1851,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/spider-man-3-11257/1"
         }
       ]
@@ -1837,7 +1869,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/fifa-soccer-14-167736/3"
         }
       ]
@@ -1855,7 +1887,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/t8-newgen-234108/1"
         }
       ]
@@ -1873,7 +1905,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/tekken-dark-resurrection-1-11176/1"
         }
       ]
@@ -1891,7 +1923,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/seen-in-liberty-city-304235/1"
         }
       ]
@@ -1909,7 +1941,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/monster-hunter-freedom-11254/1"
         }
       ]
@@ -1927,7 +1959,7 @@
       "featured": false,
       "downloadLinks": [
         {
-          "name": "Direct",
+          "name": "Download",
           "url": "https://romsfun.com/download/medal-of-honor-heroes-2-id2-11657/3"
         }
       ]
@@ -1982,7 +2014,7 @@
       "downloadLinks": [
         {
           "name": "Download",
-          "url": "https://romsfun.com/download/kingdom-hearts-birth-by-sleep-11213/1"
+          "url": "https://mega.nz/file/l7kUyYQA#PokXZTGf94bfHypEczhxUBb4ZL9zf2AM9aJZWzBKuOc"
         }
       ]
     },
@@ -2011,7 +2043,7 @@
       "genre": "rpg",
       "size": "1.4GB",
       "rating": 4.8,
-      "image": "../icon/images.jpeg",
+      "image": "../icon/Star-Wars-The-Force-Unleashed.jpg",
       "description": "Star Wars: The Old Republic game.",
       "trendingScore": 89,
       "featured": false,

@@ -241,6 +241,52 @@ header {
     box-shadow: 0 8px 25px rgba(0, 229, 255, 0.4);
 }
 
+/* ================= SEARCH BAR (404 PAGE) ================= */
+.search-bar {
+    margin: 30px 0;
+}
+
+.search-bar input {
+    padding: 12px;
+    width: 300px;
+    border: 1px solid #00e5ff;
+    border-radius: 8px;
+    background: rgba(17, 24, 42, 0.8);
+    color: #fff;
+    font-size: 16px;
+    transition: all 0.3s;
+}
+
+.search-bar input:focus {
+    outline: none;
+    border-color: #0ea5e9;
+    box-shadow: 0 0 10px rgba(0, 229, 255, 0.3);
+}
+
+.search-bar .btn {
+    margin-left: 10px;
+    padding: 12px 20px;
+}
+
+/* ================= QUICK LINKS SECTION ================= */
+.quick-links-header {
+    text-align: center;
+    margin-bottom: 24px;
+    color: #f8fafc;
+}
+
+.help-section {
+    text-align: center;
+}
+
+.help-buttons {
+    margin-top: 15px;
+}
+
+.help-buttons .btn {
+    margin: 0 10px;
+}
+
 /* ================= FOOTER ================= */
 footer {
     background: rgba(17, 24, 42, 0.95);

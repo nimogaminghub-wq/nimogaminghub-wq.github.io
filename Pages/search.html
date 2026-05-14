@@ -4,16 +4,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Search for your favorite Android, PPSSPP, and PS2 games at Nimo's Gaming">
-    <meta name="keywords" content="game search, find games, android games, ppsspp, ps2">
-    <title>Search Games | Nimo's Gaming</title>
+    <meta name="description" content="Search for your favorite Android APK, PPSSPP PSP, and PS2 games on Nimo's Gaming. Find 100+ games instantly.">
+    <meta name="keywords" content="game search, nimo search, android games search, ppsspp games search, ps2 games search, find games">
+    <meta name="author" content="Nimo's Gaming">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://nimoemmanuel2007.github.io/Nimos-Gaming/Pages/search.html">
+
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="Search Games | Nimo's Gaming">
+    <meta property="og:description" content="Search for Android, PPSSPP, and PS2 games on Nimo's Gaming platform.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://nimoemmanuel2007.github.io/Nimos-Gaming/Pages/search.html">
+
+    <title>Search Games | Nimo's Gaming - Find Android, PPSSPP, PS2 Games</title>
 
     <link rel="stylesheet" href="../CSS/Search.css">
     <link rel="stylesheet" href="../CSS/GameCards.css">
-    <link rel="stylesheet" href="../CSS/ads.css">
     <link rel="stylesheet" href="../CSS/Download.css">
-    <!-- Google AdSense Script -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3347901978894882" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -44,19 +51,6 @@
         <div class="container">
             <h1>Search Games</h1>
             <p>Find Android, PPSSPP, and PS2 games instantly</p>
-        </div>
-    </section>
-
-    <!-- ================= LEADERBOARD AD ================= -->
-    <section class='ad-banner ad-leaderboard'>
-        <div class='container'>
-            <div class='ad-placeholder'>
-                <span>Advertisement</span>
-                <div class='ad-content'>
-                    <p>728 x 90 Banner Ad</p>
-                    <p>Your ad here</p>
-                </div>
-            </div>
         </div>
     </section>
 
@@ -128,7 +122,23 @@
     <!-- ================= JS CONNECTION ================= -->
     <script src="../JS/Data.js"></script>
     <script src="../JS/download.js"></script>
+    <script src="../JS/Search.js"></script>
     <script src="../JS/Main.js"></script>
+
+    <!-- ================= INITIALIZE SEARCH ================= -->
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const startSearch = () => {
+                initSearch();
+            };
+
+            if (window.gameDataLoaded && typeof window.gameDataLoaded.then === "function") {
+                window.gameDataLoaded.then(startSearch).catch(startSearch);
+            } else {
+                startSearch();
+            }
+        });
+    </script>
 
 </body>
 
